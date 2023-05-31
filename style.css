@@ -1,0 +1,19 @@
+.sha{
+  box-shadow:  0px 12px  40px rgba(0, 0, 0, .5);
+  
+ 
+}
+@media screen and (max-width:600px) {
+  .sha{
+    height: 200px;
+  }
+  img{
+    height: 200px;
+    width: 200px;
+  }
+  .car{
+    width: 200px;
+  }
+}
+
+
